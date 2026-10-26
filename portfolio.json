@@ -1,0 +1,297 @@
+{
+  "projects": [
+    {
+      "id": "artella",
+      "number": "01",
+      "title": "Artella Residential Development",
+      "category": "architecture",
+      "type": "High-rise residential & shophouse",
+      "location": "Di An, Binh Duong",
+      "summary": "A residential and shophouse development comprising two towers of approximately 30 stories and 1,700 units.",
+      "facts": [
+        [
+          "Location",
+          "Di An, Binh Duong"
+        ],
+        [
+          "Type",
+          "Residential & shophouse"
+        ],
+        [
+          "Scale",
+          "2 towers, approximately 30 stories"
+        ],
+        [
+          "Units",
+          "1,700"
+        ],
+        [
+          "Coverage",
+          "Approximately 35%"
+        ],
+        [
+          "Status",
+          "Completed"
+        ]
+      ],
+      "secondary": "Site plan / typical floor plan",
+      "body": "The development brings together high-rise housing and shophouse uses in Di An, Binh Duong. Its scale comprises approximately 1,700 residential units across two towers of around 30 stories, with site coverage of approximately 35%.",
+      "images": [
+        {
+          "id": "artella-0",
+          "src": "",
+          "caption": "Overview"
+        },
+        {
+          "id": "artella-1",
+          "src": "",
+          "caption": "Site plan / typical floor plan"
+        },
+        {
+          "id": "artella-2",
+          "src": "",
+          "caption": "Design development"
+        },
+        {
+          "id": "artella-3",
+          "src": "",
+          "caption": "Details"
+        }
+      ]
+    },
+    {
+      "id": "khanh-hoi",
+      "number": "02",
+      "title": "Khanh Hoi Port Redevelopment",
+      "category": "urban",
+      "type": "Urban redevelopment & mixed use",
+      "location": "Ho Chi Minh City",
+      "summary": "Concept development for a large-scale urban redevelopment, with design and performance studies and coordination with city and district-level authorities on transport, water systems and planning requirements.",
+      "facts": [
+        [
+          "Location",
+          "Ho Chi Minh City"
+        ],
+        [
+          "Site area",
+          "Approximately 450,000 m²"
+        ],
+        [
+          "FAR",
+          "1.0"
+        ],
+        [
+          "Role",
+          "Design & Performance Lead"
+        ],
+        [
+          "Stage",
+          "Concept development"
+        ],
+        [
+          "Scope",
+          "Authority coordination"
+        ]
+      ],
+      "secondary": "Masterplan / infrastructure coordination",
+      "body": "The work combines concept design and performance studies with coordination on urban infrastructure. Discussions with city and district-level authorities addressed transport connections, water systems and planning requirements for the approximately 450,000 m² site.",
+      "images": [
+        {
+          "id": "khanh-hoi-0",
+          "src": "",
+          "caption": "Overview"
+        },
+        {
+          "id": "khanh-hoi-1",
+          "src": "",
+          "caption": "Masterplan / infrastructure coordination"
+        },
+        {
+          "id": "khanh-hoi-2",
+          "src": "",
+          "caption": "Design development"
+        },
+        {
+          "id": "khanh-hoi-3",
+          "src": "",
+          "caption": "Details"
+        }
+      ]
+    },
+    {
+      "id": "grand-marina",
+      "number": "03",
+      "title": "Grand Marina Saigon",
+      "category": "architecture",
+      "type": "Luxury high-rise residential",
+      "location": "Ho Chi Minh City",
+      "summary": "Architectural design development for a luxury residential project comprising four towers of 40 stories each. Work included coordination with international consultants across facade, interior, structure and MEP disciplines.",
+      "facts": [
+        [
+          "Location",
+          "Ho Chi Minh City"
+        ],
+        [
+          "Type",
+          "Luxury residential"
+        ],
+        [
+          "Scale",
+          "4 towers, 40 stories each"
+        ],
+        [
+          "Role",
+          "Senior Architect"
+        ],
+        [
+          "Stages",
+          "Concept, schematic design and design development"
+        ]
+      ],
+      "secondary": "Building section / facade coordination",
+      "body": "The architectural scope spans concept design, schematic design and design development. Coordination with international consultants brought together facade, interior, structural and MEP disciplines across four 40-story residential towers.",
+      "images": [
+        {
+          "id": "grand-marina-0",
+          "src": "",
+          "caption": "Overview"
+        },
+        {
+          "id": "grand-marina-1",
+          "src": "",
+          "caption": "Building section / facade coordination"
+        },
+        {
+          "id": "grand-marina-2",
+          "src": "",
+          "caption": "Design development"
+        },
+        {
+          "id": "grand-marina-3",
+          "src": "",
+          "caption": "Details"
+        }
+      ]
+    },
+    {
+      "id": "vung-tau",
+      "number": "04",
+      "title": "Vung Tau City Master Plan Proposal",
+      "category": "urban",
+      "type": "City-scale master planning",
+      "location": "Ba Ria – Vung Tau, Vietnam",
+      "summary": "A city-scale master planning proposal connecting the planning vision with infrastructure and environmental systems, supported by design, technology and performance analysis.",
+      "facts": [
+        [
+          "Location",
+          "Ba Ria – Vung Tau, Vietnam"
+        ],
+        [
+          "Client",
+          "Vung Tau People’s Committee"
+        ],
+        [
+          "Type",
+          "City-scale master planning"
+        ],
+        [
+          "Role",
+          "Design, Technology & Performance Lead"
+        ],
+        [
+          "Stages",
+          "Concept and proposal"
+        ]
+      ],
+      "secondary": "Planning framework / performance analysis",
+      "body": "The proposal is presented as a city-scale planning study for the Vung Tau People’s Committee. The role connects design technology and performance analysis with the development of the planning concept and proposal.",
+      "images": [
+        {
+          "id": "vung-tau-0",
+          "src": "",
+          "caption": "Overview"
+        },
+        {
+          "id": "vung-tau-1",
+          "src": "",
+          "caption": "Planning framework / performance analysis"
+        },
+        {
+          "id": "vung-tau-2",
+          "src": "",
+          "caption": "Design development"
+        },
+        {
+          "id": "vung-tau-3",
+          "src": "",
+          "caption": "Details"
+        }
+      ]
+    },
+    {
+      "id": "saigon-peninsula",
+      "number": "05",
+      "title": "Saigon Peninsula",
+      "category": "urban",
+      "type": "Mixed-use master planning",
+      "location": "District 7, Ho Chi Minh City",
+      "summary": "Feasibility and concept studies for a mixed-use development of approximately 1.02 km², including high-rise buildings, villas, shophouses and commercial uses.",
+      "facts": [
+        [
+          "Location",
+          "District 7, Ho Chi Minh City"
+        ],
+        [
+          "Site area",
+          "Approximately 1.02 km²"
+        ],
+        [
+          "FAR",
+          "4.0"
+        ],
+        [
+          "Role",
+          "Building Performance Manager / Senior Architect"
+        ],
+        [
+          "Stages",
+          "Feasibility and concept"
+        ]
+      ],
+      "secondary": "Massing study / performance comparison",
+      "body": "Building performance analysis supports feasibility and concept studies for a mixed-use site in District 7. The approximately 1.02 km² development brings together high-rise buildings, villas, shophouses and commercial uses, with a stated FAR of 4.0.",
+      "images": [
+        {
+          "id": "saigon-peninsula-0",
+          "src": "",
+          "caption": "Overview"
+        },
+        {
+          "id": "saigon-peninsula-1",
+          "src": "",
+          "caption": "Massing study / performance comparison"
+        },
+        {
+          "id": "saigon-peninsula-2",
+          "src": "",
+          "caption": "Design development"
+        },
+        {
+          "id": "saigon-peninsula-3",
+          "src": "",
+          "caption": "Details"
+        }
+      ]
+    }
+  ],
+  "portrait": {
+    "id": "portrait",
+    "src": "",
+    "caption": "Portrait"
+  },
+  "intro": "Architect and project manager working across high-rise residential developments and city-scale master planning, with a focus on design coordination, data and BIM.",
+  "bio": [
+    "Architect and project leader specializing in high-rise and large-scale urban developments. Experience spans concept design, design development and coordination with multidisciplinary teams and authorities.",
+    "Research and teaching at the Institute of Smart City Management, UEH, explore data-driven architectural design, BIM and computational methods applied to urban development."
+  ]
+}
